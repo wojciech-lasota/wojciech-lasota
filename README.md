@@ -6,6 +6,9 @@
   :fire::fire::fire::clipboard:Doing right now:exclamation: :exclamation: :fire::fire::fire:
    
   :pushpin: [React Project-Based-Course](https://www.youtube.com/watch?v=u6gSSpfsoOQ&t=515s)
+  
+  :pushpin: [TypeScript Course](https://www.youtube.com/watch?v=BwuLxPH8IDs)
+  
 - I have just finished:
 
     :orange_book:[Fullstack React: The Complete Guide to ReactJS and Friends](https://www.newline.co/fullstack-react/)
