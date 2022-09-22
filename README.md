@@ -2,6 +2,10 @@
 
 - :keyboard: I’m currently working on https://github.com/Tenemo/locked-chat-client
 - 🌱 I’m currently learning JavaScript and React from projects that can be found on youtube and udemy.
+
+  :fire::fire::fire::clipboard:Doing right now:exclamation: :exclamation: :fire::fire::fire:
+   
+  :pushpin: [React Project-Based-Course](https://www.youtube.com/watch?v=u6gSSpfsoOQ&t=515s)
 - :orange_book: I'm currently reading Fullstack React: The Complete Guide to ReactJS and Friends.
 - 📫 How to reach me: send me a DM 
 --
