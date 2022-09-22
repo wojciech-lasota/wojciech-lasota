@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+- :keyboard: I’m currently working on https://github.com/Tenemo/locked-chat-client
 - 🌱 I’m currently learning JavaScript and React from projects that can be found on youtube and udemy.
 - :orange_book: I'm currently reading Fullstack React: The Complete Guide to ReactJS and Friends.
 - 📫 How to reach me: send me a DM 
