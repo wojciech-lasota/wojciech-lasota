@@ -6,9 +6,12 @@
   :fire::fire::fire::clipboard:Doing right now:exclamation: :exclamation: :fire::fire::fire:
    
   :pushpin: [React Project-Based-Course](https://www.youtube.com/watch?v=u6gSSpfsoOQ&t=515s)
-- :orange_book: I'm currently reading Fullstack React: The Complete Guide to ReactJS and Friends.
-- 📫 How to reach me: send me a DM 
---
+- I have just finished:
+
+    :orange_book:[Fullstack React: The Complete Guide to ReactJS and Friends](https://www.newline.co/fullstack-react/)
+    
+    :tv:[The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+
 <!--
 **wojciech-lasota/wojciech-lasota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,4 +25,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- :orange_book: I'm currently reading Fullstack React: The Complete Guide to ReactJS and Friends.
 -->
