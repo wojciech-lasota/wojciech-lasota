@@ -7,9 +7,12 @@
    
   :pushpin: [React Project-Based-Course](https://www.youtube.com/watch?v=u6gSSpfsoOQ&t=515s)
   
-  :pushpin: [TypeScript Course](https://www.youtube.com/watch?v=BwuLxPH8IDs)
+  :pushpin: [Learn TypeScript](https://www.youtube.com/watch?v=gp5H0Vw39yw)
+  
   
 - I have just finished:
+
+    :tv: [TypeScript Course](https://www.youtube.com/watch?v=BwuLxPH8IDs)
 
     :orange_book:[Fullstack React: The Complete Guide to ReactJS and Friends](https://www.newline.co/fullstack-react/)
     
