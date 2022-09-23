@@ -4,13 +4,18 @@
 - 🌱 I’m currently learning JavaScript and React from projects that can be found on youtube and udemy.
 
   :fire::fire::fire::clipboard:Doing right now:exclamation: :exclamation: :fire::fire::fire:
+  
+  :pushpin: [typescriptlang handbook](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+  
+  :pushpin: [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
    
   :pushpin: [React Project-Based-Course](https://www.youtube.com/watch?v=u6gSSpfsoOQ&t=515s)
   
-  :pushpin: [TypeScript for React Components](https://www.youtube.com/watch?v=z8lDwLKthr8)
   
   
 - I have just finished:
+
+    :tv: [TypeScript for React Components](https://www.youtube.com/watch?v=z8lDwLKthr8)
 
     :tv: [Learn TypeScript](https://www.youtube.com/watch?v=gp5H0Vw39yw)
 
