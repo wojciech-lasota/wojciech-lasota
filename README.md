@@ -7,10 +7,12 @@
    
   :pushpin: [React Project-Based-Course](https://www.youtube.com/watch?v=u6gSSpfsoOQ&t=515s)
   
-  :pushpin: [Learn TypeScript](https://www.youtube.com/watch?v=gp5H0Vw39yw)
+  :pushpin: [TypeScript for React Components](https://www.youtube.com/watch?v=z8lDwLKthr8)
   
   
 - I have just finished:
+
+    :tv: [Learn TypeScript](https://www.youtube.com/watch?v=gp5H0Vw39yw)
 
     :tv: [TypeScript Course](https://www.youtube.com/watch?v=BwuLxPH8IDs)
 
