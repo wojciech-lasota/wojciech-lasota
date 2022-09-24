@@ -5,7 +5,7 @@
 
   :fire::fire::fire::clipboard:Doing right now:exclamation: :exclamation: :fire::fire::fire:
   
-  :pushpin: [React with TypeScript](https://www.youtube.com/watch?v=jrKcJxF0lAU)
+  :pushpin: [React Redux with TypeScript](https://www.youtube.com/watch?v=udr2rx_B99w)
   
   :pushpin: [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
    
@@ -14,6 +14,8 @@
   
   
 - I have just finished:
+
+    :tv: [React with TypeScript](https://www.youtube.com/watch?v=jrKcJxF0lAU)
 
    :book: [TypeScript for JS Programmers](https://ts.chibicode.com/todo/)
 
