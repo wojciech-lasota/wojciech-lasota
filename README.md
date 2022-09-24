@@ -7,6 +7,10 @@
   
   :pushpin: [React Redux with TypeScript](https://www.youtube.com/watch?v=udr2rx_B99w)
   
+  :pushpin: [React Redux with Hooks](https://www.youtube.com/watch?v=9jULHSe41ls)
+  
+  :pushpin: [React with Redux Toolkit](https://www.youtube.com/watch?v=jR4fagDcvrc)
+  
   :pushpin: [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
    
   :pushpin: [React Project-Based-Course](https://www.youtube.com/watch?v=u6gSSpfsoOQ&t=515s)
