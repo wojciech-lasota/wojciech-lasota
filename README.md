@@ -5,7 +5,6 @@
 
   :fire::fire::fire::clipboard:Doing right now:exclamation: :exclamation: :fire::fire::fire:
   
-  :pushpin: [Node & React Redux Tool Kit with TypeScript](https://www.youtube.com/watch?v=02qV2icZahk)
   
   :pushpin: [React Redux with TypeScript](https://www.youtube.com/watch?v=udr2rx_B99w)
   
