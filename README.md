@@ -3,36 +3,43 @@
 - :keyboard: I’m currently working on https://github.com/Tenemo/locked-chat-client
 - 🌱 I’m currently learning JavaScript and React from projects that can be found on youtube and udemy.
 
-  :fire::fire::fire::clipboard:Doing right now:exclamation: :exclamation: :fire::fire::fire:
+  - :fire::fire::fire::clipboard:Doing right now:exclamation: :exclamation: :fire::fire::fire:
   
+    - :pushpin: [React with Redux Toolkit Crash Course](https://www.youtube.com/watch?v=jR4fagDcvrc)
   
-  :pushpin: [React Redux with TypeScript](https://www.youtube.com/watch?v=udr2rx_B99w)
+    - :pushpin: [Redux Tutorial - Beginner to Advanced](https://www.youtube.com/watch?v=zrs7u6bdbUw)
   
-  :pushpin: [React Redux with Hooks](https://www.youtube.com/watch?v=9jULHSe41ls)
+    - :pushpin: [React Redux Full Course for Beginners | Redux Toolkit Complete Tutorial](https://www.youtube.com/watch?v=NqzdVN2tyvQ)
   
-  :pushpin: [React with Redux Toolkit](https://www.youtube.com/watch?v=jR4fagDcvrc)
-  
-  :pushpin: [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
+    - :pushpin: [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
    
-  :pushpin: [React Project-Based-Course](https://www.youtube.com/watch?v=u6gSSpfsoOQ&t=515s)
+ 
   
   
   
 - I have just finished:
 
-    :tv: [React with TypeScript](https://www.youtube.com/watch?v=jrKcJxF0lAU)
+    - :tv: [React Redux with TypeScript](https://www.youtube.com/watch?v=udr2rx_B99w)
+  
+    - :tv: [React Redux with Hooks](https://www.youtube.com/watch?v=9jULHSe41ls)
+  
+    - :tv: [React with Redux Toolkit](https://www.youtube.com/watch?v=jR4fagDcvrc)
+  
+    - :tv: [React Project-Based-Course](https://www.youtube.com/watch?v=u6gSSpfsoOQ&t=515s)
 
-   :book: [TypeScript for JS Programmers](https://ts.chibicode.com/todo/)
+    - :tv: [React with TypeScript](https://www.youtube.com/watch?v=jrKcJxF0lAU)
 
-    :tv: [TypeScript for React Components](https://www.youtube.com/watch?v=z8lDwLKthr8)
+    - :book: [TypeScript for JS Programmers](https://ts.chibicode.com/todo/)
 
-    :tv: [Learn TypeScript](https://www.youtube.com/watch?v=gp5H0Vw39yw)
+    - :tv: [TypeScript for React Components](https://www.youtube.com/watch?v=z8lDwLKthr8)
 
-    :tv: [TypeScript Course](https://www.youtube.com/watch?v=BwuLxPH8IDs)
+    - :tv: [Learn TypeScript](https://www.youtube.com/watch?v=gp5H0Vw39yw)
 
-    :orange_book:[Fullstack React: The Complete Guide to ReactJS and Friends](https://www.newline.co/fullstack-react/)
+    - :tv: [TypeScript Course](https://www.youtube.com/watch?v=BwuLxPH8IDs)
+
+    - :orange_book:[Fullstack React: The Complete Guide to ReactJS and Friends](https://www.newline.co/fullstack-react/)
     
-    :tv:[The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+    - :tv:[The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
 <!--
 **wojciech-lasota/wojciech-lasota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
