@@ -5,19 +5,21 @@
 
   - :fire::fire::fire::clipboard:Doing right now:exclamation: :exclamation: :fire::fire::fire:
   
-    - :pushpin: [React with Redux Toolkit Crash Course](https://www.youtube.com/watch?v=jR4fagDcvrc)
+    - :pushpin: [React Tutorial | Redux Toolkit Project |YouTube Clone React, Redux, Typescript, Tailwind,YouTube API](https://www.youtube.com/watch?v=I32ri7v3SYk)
   
-    - :pushpin: [Redux Tutorial - Beginner to Advanced](https://www.youtube.com/watch?v=zrs7u6bdbUw)
-  
-    - :pushpin: [React Redux Full Course for Beginners | Redux Toolkit Complete Tutorial](https://www.youtube.com/watch?v=NqzdVN2tyvQ)
-  
-    - :pushpin: [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
+    
    
  
   
   
   
 - I have just finished:
+    - :tv: [React with Redux Toolkit Crash Course](https://www.youtube.com/watch?v=jR4fagDcvrc)
+  
+    - :tv: [Redux Tutorial - Beginner to Advanced](https://www.youtube.com/watch?v=zrs7u6bdbUw)
+  
+    - :tv: [React Redux Full Course for Beginners | Redux Toolkit Complete Tutorial](https://www.youtube.com/watch?v=NqzdVN2tyvQ)
+  
 
     - :tv: [React Redux with TypeScript](https://www.youtube.com/watch?v=udr2rx_B99w)
   
