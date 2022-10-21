@@ -5,7 +5,8 @@
 
   - :fire::fire::fire::clipboard:Doing right now:exclamation: :exclamation: :fire::fire::fire:
   
-    - :pushpin: [React Tutorial | Redux Toolkit Project |YouTube Clone React, Redux, Typescript, Tailwind,YouTube API](https://www.youtube.com/watch?v=I32ri7v3SYk)
+    - :pushpin: [ReactJS Tutorial for Beginners - Full Course in 20 Hours [2022]
+](https://www.youtube.com/watch?v=0mVbNp1ol_w)
   
     
    
