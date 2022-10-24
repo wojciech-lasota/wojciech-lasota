@@ -9,6 +9,9 @@
   
     - :pushpin: [ReactJS Tutorial for Beginners - Full Course in 20 Hours [2022]
 ](https://www.youtube.com/watch?v=0mVbNp1ol_w)
+
+    - :pushpin: [Debug React Apps Like a Pro | Master Debugging from Zero to Hero with Chrome DevTools
+](https://www.youtube.com/watch?v=_rnxOD9NKAs)
   
     
    
