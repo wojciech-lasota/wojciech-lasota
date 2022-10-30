@@ -7,10 +7,13 @@
 
   - :fire::fire::fire::clipboard:Doing right now:exclamation: :exclamation: :fire::fire::fire:
   
-    - :pushpin: [ReactJS Tutorial for Beginners - Full Course in 20 Hours [2022]
-](https://www.youtube.com/watch?v=0mVbNp1ol_w)
+    - :pushpin: [Modern React Web Development Full Course - 12 Hours | 4 Real Industry Web Applications
+](https://www.youtube.com/watch?v=XxXyfkrP298&t=274s)
 
-    - :pushpin: [reactrouter.com/tutorial](https://reactrouter.com/en/main/start/tutorial)
+     - :pushpin: [Let's build SNAPCHAT with REACT.JS! (with Camera, REDUX & Firebase)
+](https://www.youtube.com/watch?v=1kGISk5ft2w&list=PLf16UKl7nR5AjcrYOe1niifJSAls3spDk&index=9)
+
+     - :pushpin: [reactrouter.com/tutorial](https://reactrouter.com/en/main/start/tutorial)
   
     
    
