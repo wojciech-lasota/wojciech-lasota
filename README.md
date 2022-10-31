@@ -10,8 +10,6 @@
     - :pushpin: [Modern React Web Development Full Course - 12 Hours | 4 Real Industry Web Applications
 ](https://www.youtube.com/watch?v=XxXyfkrP298&t=274s)
 
-     - :pushpin: [Let's build SNAPCHAT with REACT.JS! (with Camera, REDUX & Firebase)
-](https://www.youtube.com/watch?v=1kGISk5ft2w&list=PLf16UKl7nR5AjcrYOe1niifJSAls3spDk&index=9)
 
      - :pushpin: [reactrouter.com/tutorial](https://reactrouter.com/en/main/start/tutorial)
   
