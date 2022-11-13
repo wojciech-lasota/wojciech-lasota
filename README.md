@@ -7,10 +7,9 @@
 
   - :fire::fire::fire::clipboard:Doing right now:exclamation: :exclamation: :fire::fire::fire:
   
-    - :pushpin: [Developing a real-time secure chat application like WhatsApp & Signal with end-to-end encryption.](https://www.qed42.com/insights/coe/javascript/developing-real-time-secure-chat-application-whatsapp-signal-end-end)
     
-    - :pushpin: [Modern React Web Development Full Course - 12 Hours | 4 Real Industry Web Applications
-](https://www.youtube.com/watch?v=XxXyfkrP298&t=274s)
+    - :pushpin: [Build and Deploy 4 Modern React Apps and Get Hired as a Frontend Developer | Full 10-Hour Course
+](https://www.youtube.com/watch?v=F627pKNUCVQ&list=WL&index=4&t=11s)
 
 
      - :pushpin: [reactrouter.com/tutorial](https://reactrouter.com/en/main/start/tutorial)
@@ -22,6 +21,8 @@
   
   
 - I have just finished:
+
+    - :newspaper: [Developing a real-time secure chat application like WhatsApp & Signal with end-to-end encryption.](https://www.qed42.com/insights/coe/javascript/developing-real-time-secure-chat-application-whatsapp-signal-end-end)
     - :tv: [React with Redux Toolkit Crash Course](https://www.youtube.com/watch?v=jR4fagDcvrc)
   
     - :tv: [Redux Tutorial - Beginner to Advanced](https://www.youtube.com/watch?v=zrs7u6bdbUw)
