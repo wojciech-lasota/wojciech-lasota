@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋 I am Wojtek!
+## I am looking for an internship as a web developer! If you are looking for someone with React,TS,JS skills... I am the guy!
+
+
+### I'm a passionate Computer Science student that's more than halfway into their Bachelor of Engineering degree. Check me [resume](https://github.com/wojciech-lasota/wojciech-lasota/raw/main/wojciech_lasota_resume%2016.11.pdf) and fell free to call me or send me a email.
+
+
 
 - :keyboard: I’m currently working on: 
    - https://github.com/Tenemo/locked-chat-client
@@ -52,18 +58,3 @@
     
     - :tv:[The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
-<!--
-**wojciech-lasota/wojciech-lasota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- :orange_book: I'm currently reading Fullstack React: The Complete Guide to ReactJS and Friends.
--->
