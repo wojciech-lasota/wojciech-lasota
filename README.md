@@ -1,5 +1,6 @@
 # Hi there 👋 I am Wojtek!
-## I am looking for an internship as a web developer! If you are looking for someone with React,TS,JS skills... I am the guy!
+## I am looking for an job as a web developer! If you are looking for someone with React,TS,JS skills... I am the guy!
+## I am open to work as Junior JavaScript Developer or Junior React developer.
 
 
 ### I'm a passionate Computer Science student that's more than halfway into their Bachelor of Engineering degree. Check me [resume](https://github.com/wojciech-lasota/wojciech-lasota/raw/main/wojciech_lasota_resume%2016.11.pdf) and fell free to call me or send me a email.
