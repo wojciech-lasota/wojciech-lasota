@@ -12,14 +12,13 @@
    - https://github.com/Tenemo/locked-chat-server
 - 🌱 I’m currently learning JavaScript and React from projects that can be found on youtube and udemy.
 
-  - :fire::fire::fire::clipboard:Doing right now:exclamation: :exclamation: :fire::fire::fire:
+<!--   - :fire::fire::fire::clipboard:Doing right now:exclamation: :exclamation: :fire::fire::fire: -->
   
     
-    - :pushpin: [Build and Deploy 4 Modern React Apps and Get Hired as a Frontend Developer | Full 10-Hour Course
-](https://www.youtube.com/watch?v=F627pKNUCVQ&list=WL&index=4&t=11s)
 
 
-     - :pushpin: [reactrouter.com/tutorial](https://reactrouter.com/en/main/start/tutorial)
+
+<!--      - :pushpin: [reactrouter.com/tutorial](https://reactrouter.com/en/main/start/tutorial) -->
   
     
    
