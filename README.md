@@ -1,11 +1,6 @@
 # Hi there 👋 I am Wojtek!
-## I am looking for an job as a web developer! If you are looking for someone with React,TS,JS skills... I am the guy!
-## I am open to work as Junior JavaScript Developer or Junior React developer.
-
-
-### I'm a passionate Computer Science student that's more than halfway into their Bachelor of Engineering degree. Check me [resume](https://github.com/wojciech-lasota/wojciech-lasota/raw/main/wojciech_lasota_resume%2016.11.pdf) and fell free to call me or send me a email.
-
-
+## As a computer science student in my final year of study, I am focused on software engineering and have a strong interest in JavaScript and ReactJS. I have gained eight months of professional experience as a junior JavaScript developer. If you are looking for someone with React,TS,JS skills... I am the guy!
+## I am open to contact regarding job offers and would be happy to discuss potential collaborations. Please feel free to reach out to me at your convenience.
 
 - :keyboard: I’m currently working on: 
    - https://github.com/Tenemo/locked-chat-client
