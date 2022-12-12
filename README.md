@@ -7,8 +7,8 @@
    - https://github.com/Tenemo/locked-chat-server
 - 🌱 I’m currently learning JavaScript and React from projects that can be found on youtube and udemy.
 
-  - :fire::fire::fire::clipboard:Doing right now:exclamation: :exclamation: :fire::fire::fire:
-  - :pushpin: [auth0 tutorial](https://auth0.com/docs/get-started)
+<!--   - :fire::fire::fire::clipboard:Doing right now:exclamation: :exclamation: :fire::fire::fire:
+  - :pushpin: [auth0 tutorial](https://auth0.com/docs/get-started) -->
   
     
 
