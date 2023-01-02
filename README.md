@@ -10,6 +10,8 @@
   - :fire::fire::fire::clipboard:Doing right now:exclamation: :exclamation: :fire::fire::fire:
   - :pushpin: [Effective TypeScript: 62 Specific Ways to Improve Your TypeScript 1st Edition
 by Dan Vanderkam ](https://www.amazon.com/Effective-TypeScript-Specific-Ways-Improve/dp/1492053740)
+
+  - 📌 [roadmap.sh/frontend](https://roadmap.sh/frontend)
   
     
 
